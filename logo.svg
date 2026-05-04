@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#f0f4f8"/>
+
+  <!-- Card shape -->
+  <rect x="106" y="76" width="300" height="360" rx="20" fill="#007bff"/>
+
+  <!-- Card shine effect -->
+  <rect x="106" y="76" width="300" height="40" rx="20" fill="rgba(255, 255, 255, 0.3)"/>
+
+  <!-- Card text line 1 -->
+  <rect x="136" y="150" width="240" height="12" rx="6" fill="rgba(255, 255, 255, 0.9)"/>
+
+  <!-- Card text line 2 -->
+  <rect x="136" y="180" width="220" height="12" rx="6" fill="rgba(255, 255, 255, 0.7)"/>
+
+  <!-- Card text line 3 -->
+  <rect x="136" y="210" width="200" height="12" rx="6" fill="rgba(255, 255, 255, 0.7)"/>
+
+  <!-- Repetition indicator circles -->
+  <circle cx="156" cy="310" r="18" fill="rgba(255, 255, 255, 0.8)"/>
+  <circle cx="226" cy="310" r="18" fill="rgba(255, 255, 255, 0.8)"/>
+  <circle cx="296" cy="310" r="18" fill="rgba(255, 255, 255, 0.8)"/>
+  <circle cx="366" cy="310" r="18" fill="rgba(255, 255, 255, 0.8)"/>
+</svg>
