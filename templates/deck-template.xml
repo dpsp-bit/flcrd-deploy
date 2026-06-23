@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcards exportedAt="1700000000000">
+  <decks>
+    <deck id="8f3b2a1a-4d2c-4f8a-9e12-3a4b5c6d7e8f" name="Web Development" description="Web standards and frontend concepts" createdAt="1700000000000" updatedAt="1700000000000"/>
+    <deck id="7a6b5c4d-3e2f-1a0b-9c8d-7e6f5a4b3c2d" name="General Knowledge" description="Trivia and miscellaneous facts" createdAt="1700000000000" updatedAt="1700000000000"/>
+  </decks>
+  <cards>
+    <!-- Card in Web Development Deck (shows a reviewed card) -->
+    <card id="d2a1b3c4-e5f6-4a7b-8c9d-0e1f2a3b4c5d" deckId="8f3b2a1a-4d2c-4f8a-9e12-3a4b5c6d7e8f" createdAt="1700000000000" updatedAt="1700000000000" lastReviewed="1700086400000" easinessFactor="2.5" repetitionCount="1" nextReviewDate="1700172800000">
+      <question><![CDATA[What does PWA stand for?]]></question>
+      <answer><![CDATA[Progressive Web Application]]></answer>
+      <difficultyHistory>
+        <entry rating="Good" reviewedAt="1700086400000"/>
+      </difficultyHistory>
+    </card>
+    <!-- Card in General Knowledge Deck (shows a new card with default SRS values) -->
+    <card id="b3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e" deckId="7a6b5c4d-3e2f-1a0b-9c8d-7e6f5a4b3c2d" createdAt="1700000000000" updatedAt="1700000000000" lastReviewed="null" easinessFactor="2.5" repetitionCount="0" nextReviewDate="1700086400000">
+      <question><![CDATA[What is the capital of France?]]></question>
+      <answer><![CDATA[Paris]]></answer>
+    </card>
+  </cards>
+</flashcards>

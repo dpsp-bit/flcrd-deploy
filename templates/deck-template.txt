@@ -1,0 +1,6 @@
+#separator:Tab
+#html:true
+#columns:Front	Back	Deck
+What does PWA stand for?	Progressive Web Application	Web Development
+What is HTML?	HyperText Markup Language	Web Development
+What is the capital of Japan?	Tokyo	Geography
